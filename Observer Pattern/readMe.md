@@ -68,14 +68,14 @@ Roy has received an alert: Updated myValue in Subject is: 100
 
 ## Q&A Session
 
-1. **Need for Interface**: Using interfaces is preferable for abstraction and following OOP principles.
-2. **Multiple Observer Types**: Different types of observers can exist in the same application.
-3. **Dynamic Observer Addition/Removal**: Observers can be added or removed at runtime.
-4. **Comparison with Chain of Responsibility Pattern**: Observers receive notifications simultaneously; chain of responsibility handles notifications sequentially.
-5. **Support for One-to-Many Relationship**: Yes, this pattern depicts a one-to-many relationship.
-6. **Custom Implementation vs. Built-in Constructs**: Custom implementations can provide more flexibility and understanding than built-in constructs.
-7. **Benefits of the Observer Pattern**: Loose coupling, dynamic addition/removal of observers, and no modifications needed in subjects for observer changes.
-8. **Challenges of the Observer Pattern**: Concerns about memory leaks, undependable order of notification, and limitations in some language constructs.
+1. Need for Interface: Using interfaces is preferable for abstraction and following OOP principles.
+2. Multiple Observer Types: Different types of observers can exist in the same application.
+3. Dynamic Observer Addition/Removal: Observers can be added or removed at runtime.
+4. Comparison with Chain of Responsibility Pattern: Observers receive notifications simultaneously; chain of responsibility handles notifications sequentially.
+5. Support for One-to-Many Relationship: Yes, this pattern depicts a one-to-many relationship.
+6. Custom Implementation vs. Built-in Constructs: Custom implementations can provide more flexibility and understanding than built-in constructs.
+7. Benefits of the Observer Pattern: Loose coupling, dynamic addition/removal of observers, and no modifications needed in subjects for observer changes.
+8. Challenges of the Observer Pattern: Concerns about memory leaks, undependable order of notification, and limitations in some language constructs.
 ```
 
 ## Resources
