@@ -45,7 +45,7 @@ The Observer Pattern establishes a one-to-many relationship between objects, whe
 
 ### Code Example (Java)
 
-[See Example Code](<JavaCodeURL>)
+[See Example Code](https://github.com/dystaSatria/Software-Architecture/blob/main/Observer%20Pattern/observerPattern.java)
 
 ## Q&A Session
 
