@@ -41,7 +41,7 @@ The Observer Pattern establishes a one-to-many relationship between objects, whe
 ![Class Diagram](<ImageURL>)
 
 ### Package Explorer View
-![Package Explorer](<ImageURL>)
+![Package Explorer](https://github.com/dystaSatria/Software-Architecture/blob/main/Observer%20Pattern/package.png)
 
 ### Code Example (Java)
 
