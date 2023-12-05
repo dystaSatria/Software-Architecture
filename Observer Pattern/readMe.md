@@ -47,6 +47,25 @@ The Observer Pattern establishes a one-to-many relationship between objects, whe
 
 [See Example Code](https://github.com/dystaSatria/Software-Architecture/blob/main/Observer%20Pattern/observerPattern.java)
 
+
+# Observer Pattern Demo Output
+
+Here is the output of the Observer Pattern Demo:
+
+```console
+Observer Pattern Demo
+Setting Flag = 5
+Roy has received an alert: Updated myValue in Subject is: 5
+Kevin has received an alert: Updated myValue in Subject is: 5
+Bose has received an alert: The current value of myValue in Subject is: 5
+Setting Flag = 50
+Kevin has received an alert: Updated myValue in Subject is: 50
+Bose has received an alert: The current value of myValue in Subject is: 50
+Setting Flag = 100
+Kevin has received an alert: Updated myValue in Subject is: 100
+Bose has received an alert: The current value of myValue in Subject is: 100
+Roy has received an alert: Updated myValue in Subject is: 100
+
 ## Q&A Session
 
 1. **Need for Interface**: Using interfaces is preferable for abstraction and following OOP principles.
@@ -57,6 +76,7 @@ The Observer Pattern establishes a one-to-many relationship between objects, whe
 6. **Custom Implementation vs. Built-in Constructs**: Custom implementations can provide more flexibility and understanding than built-in constructs.
 7. **Benefits of the Observer Pattern**: Loose coupling, dynamic addition/removal of observers, and no modifications needed in subjects for observer changes.
 8. **Challenges of the Observer Pattern**: Concerns about memory leaks, undependable order of notification, and limitations in some language constructs.
+```
 
 ## Resources
 
