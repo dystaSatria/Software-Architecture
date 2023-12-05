@@ -38,7 +38,7 @@ The Observer Pattern establishes a one-to-many relationship between objects, whe
 - Illustrates a scenario with three observers and one subject. Observers receive notifications when a flag value changes in the subject.
 
 ### Class Diagram
-![Class Diagram](<ImageURL>)
+![Class Diagram](https://github.com/dystaSatria/Software-Architecture/blob/main/Observer%20Pattern/classDiagram.png)
 
 ### Package Explorer View
 ![Package Explorer](https://github.com/dystaSatria/Software-Architecture/blob/main/Observer%20Pattern/package.png)
